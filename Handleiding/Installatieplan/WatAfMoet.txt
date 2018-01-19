@@ -1,0 +1,39 @@
+Documentatie: 
+	- testplan
+	- ingevulde github site (inhoudsopgave = table of contents)
+	- handleiding (zelf testen, testdagversie)
+	- proces verbaal (stelt de tester op)
+	- constatering van de projectleider tijdens de testdag (hoe jij je aan het testplan)
+	- evaluatie van de tester
+	- evaluatie van de testdag (belangrijk proces verbaal)
+
+
+Testplan:
+	- document: Roel Grit
+	- doel: beschijft de omstandigheden waarbinnen het testen plaat vind
+	- vijf hoofdstukken
+		1. planning en control (globale planning, zelftest)
+			Neem de eisen- en wensenlijst en d eeel dee in naar major of minor(gooit moscow eruit). Een majorgout is altijd einde en een aantal minor gouten is einde (grens aan het aantal minors)???
+		
+		2. analyse en design 
+			De omstandigheden waarbinnen het testen plaat vind (rustige ruimte)
+			Hoe ziet he implementatieplan eruit
+			Procedure van de testdag (vraag aan projectleider)
+			Beschrijving van de rol tester en de bijbehorende vaardigheden
+			Beschrijving van de constructeur (degene die de spullen oplevert)
+	
+		3. implementatie en uitvoer
+			Je moet de tester van te voren instrueren
+			Regels(instructies):
+				- de tester mag geen overleg voeren met de contructeur
+				- de test moet evalueerbaar zijn: de tester MAG GEEN OORDEEL GEVEN 
+				- wat te doen bij fouten - wanneer stoppen met de test
+				- resultaten van de test moeten voorspelbaar zijn
+	
+		4. evalueren van exit condities
+			Doe je moet projectleider (zie planning)
+			Beschrijf wat je meeneemt naar de evaluatie
+			Oordeel geven: GO/NO GO
+
+		5. afsluiten test
+			De tester moet aan het einde ghet totaal resultaat op het proces verbaal schrijven.
